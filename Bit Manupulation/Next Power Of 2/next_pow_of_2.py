@@ -9,7 +9,7 @@ def next_pow_of_2(n):
     return n
 
 
-n = int(input())
+n = 244
 print(next_pow_of_2(n))
 
 

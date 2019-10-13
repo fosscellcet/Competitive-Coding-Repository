@@ -8,7 +8,7 @@ def count1(n):
     return count
 
 
-n = int(input())
+n = 10
 print(count1(n))
 
 '''Input : 10

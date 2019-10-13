@@ -11,11 +11,9 @@ def subSet(a, n):
         print()
 
 
-n = int(input())  # Example 5
+n = 5  # Example 5
 
-a = []
-for i in range(n):
-    a.append(int(input()))
+a = [10, 15, 20, 25, 30]
 subSet(a, n)
 '''Example
 Input : 5

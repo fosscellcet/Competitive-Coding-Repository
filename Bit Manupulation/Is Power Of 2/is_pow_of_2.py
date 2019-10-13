@@ -2,7 +2,7 @@ def is_pow_of_2(num):
     return (num and (not(num & (num-1))))
 
 
-number = int(input("enter a number :"))
+number = 5
 if(is_pow_of_2(number)):
     print("number is power of 2 ")
 else:

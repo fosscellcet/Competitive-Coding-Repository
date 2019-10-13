@@ -5,8 +5,8 @@ def check(number, i):
         print("NOT SET")
 
 
-number = int(input())
-index = int(input())
+number = 5
+index = 1
 check(number, index)
 '''Example
 number is 5
