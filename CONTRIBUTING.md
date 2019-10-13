@@ -6,6 +6,28 @@ New implementations in other languages for existing solutions are welcome.
 Contributions improving the documentation(README.md files) are welcome.  
 New questions and topics are also welcome.  
 
+### Folder Structure Conventions
+
+Follow the directory structure of the project.
+    .
+    ├── ... 
+    ├── Topic 1                        # DP,Bitmasking..etc
+    │   ├── Problem 1                  # N-Queens, Kadane
+    │   │   ├── lang 1_implementation  # Python, C++, C, Java, JS
+    │   │   ├── lang 2_implementation 
+    │   │   └── Readme                 # Solution Explanation
+    │   ├── Problem 2
+    │   │   ├── ...
+    │   │   ├── ... 
+    │   │   └── Readme            
+    │   └── Problem 3
+    │   │   ├── ...
+    │   │   ├── ...
+    │   │   └── Readme                
+    │   └── ...
+    └── ...
+
+## Contributors
 
 We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms.
 Please read this section if you are contributing your work.
