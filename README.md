@@ -1,5 +1,5 @@
-# Competetive-Coding-Repository
-A collection of solutions to competetive coding questions in all programming languages.
+# Competitive-Coding-Repository
+A collection of solutions to Competitive Coding questions in all programming languages.
 
 # Folder Structure Conventions
     .
