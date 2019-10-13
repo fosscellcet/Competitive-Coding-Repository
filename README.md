@@ -54,3 +54,7 @@ A collection of solutions to competetive coding questions in all programming lan
 - [ ] Binary Search
 
 ## Sorting
+- [ ] Quick Sort
+- [ ] Merge Sort
+- [ ] Radix Sort
+- [ ] Counting Sort
