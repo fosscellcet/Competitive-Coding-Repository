@@ -1,26 +1,6 @@
 # Competitive-Coding-Repository
 A collection of solutions to Competitive Coding questions in all programming languages.
 
-# Folder Structure Conventions
-    .
-    ├── ... 
-    ├── Topic 1                        # DP,Bitmasking..etc
-    │   ├── Problem 1                  # N-Queens, Kadane
-    │   │   ├── lang 1_implementation  # Python, C++, C, Java, JS
-    │   │   ├── lang 2_implementation 
-    │   │   └── Readme                 # Solution Explanation
-    │   ├── Problem 2
-    │   │   ├── ...
-    │   │   ├── ... 
-    │   │   └── Readme            
-    │   └── Problem 3
-    │   │   ├── ...
-    │   │   ├── ...
-    │   │   └── Readme                
-    │   └── ...
-    └── ...
-
-
 # Check List 
 
 ## Data Structures
@@ -51,7 +31,7 @@ A collection of solutions to Competitive Coding questions in all programming lan
 ## Number Theory
 
 ## Searching
-- [ ] Binary Search
+- [x] Binary Search
 
 ## Sorting
 - [ ] Quick Sort
