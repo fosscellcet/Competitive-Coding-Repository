@@ -17,4 +17,13 @@ We want your code to be easily understandable by others, so make sure:
     - Avoid single letter variable names, unless they live for only a few lines.
     - Avoid acronyms.
 3. Avoid taking user inputs. Hardcode a value instead. This is to avoid confusion while running the program.  
+For example, avoid
+```python
+number = int(input()) # Don't do this.
+```
+instead, do:
+```python
+number = 10
+```
+If you can't avoid user input, make sure that the user will have a clear idea of what to give as the input, and is not faced with a blank prompt.  
 4. Most importantly, make sure your code works, and do provide an example the shows its working.
