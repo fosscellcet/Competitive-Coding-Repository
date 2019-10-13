@@ -4,6 +4,8 @@ using namespace std;
 int count1(int n){
   int count =0;
   while(n){
+    //cout<<"n=n&(n-1)="<n&(n-1);
+    //UNCOMMENT THE ABOVE LINE TO SEE HOW IT WORKS
     n=n&(n-1);
     count++;
   }
