@@ -16,4 +16,5 @@ We want your code to be easily understandable by others, so make sure:
 3. Help your reader by using descriptive names that can help you to remove redundant comments.
     - Avoid single letter variable names, unless they live for only a few lines.
     - Avoid acronyms.
- 4. Most importantly, make sure your code works, and do provide an example the shows its working.
+3. Avoid taking user inputs. Hardcode a value instead. This is to avoid confusion while running the program.  
+4. Most importantly, make sure your code works, and do provide an example the shows its working.
