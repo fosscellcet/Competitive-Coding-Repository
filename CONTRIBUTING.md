@@ -29,14 +29,14 @@ Follow the directory structure of the project.
 
 ## Contributors
 
-We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms.
+We appreciate any contribution, from fixing a grammatical error in a comment to implementing complex algorithms.
 Please read this section if you are contributing your work.
 
-We want your code to be easily understandable by others, so make sure:
+We want your code to be easily understood by others, so make sure:
 1. You comment your code, with the working of the algorithm
 2. Link any reference that helped you with the code, for example, a wikipedia page.
-3. Help your reader by using descriptive names that can help you to remove redundant comments.
-    - Avoid single letter variable names, unless they live for only a few lines.
+3. Help your reader by using descriptive names that can help you remove redundant comments.
+    - Avoid single letter variable names, unless their scope is only a few lines.
     - Avoid acronyms.
 3. Avoid taking user inputs. Hardcode a value instead. This is to avoid confusion while running the program.  
 For example, avoid
@@ -47,5 +47,5 @@ instead, do:
 ```python
 number = 10
 ```
-If you can't avoid user input, make sure that the user will have a clear idea of what to give as the input, and is not faced with a blank prompt.  
-4. Most importantly, make sure your code works, and do provide an example the shows its working.
+If you can't avoid user input, make sure that the user will have a clear idea of what to give as the input, and does not face a blank prompt.  
+5. Most importantly, make sure your code works, and do provide an example that shows its working.
