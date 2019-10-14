@@ -14,7 +14,9 @@ long long unsigned int calc(int n,int k)
 int main()
 {
 	int n,k;
-	scanf("%d%d",&n,&k);
+	n=10;
+	k=2;
+	//scanf("%d%d",&n,&k);
 	printf("%llu\n",calc(n,k));
 	return 0;
 }
