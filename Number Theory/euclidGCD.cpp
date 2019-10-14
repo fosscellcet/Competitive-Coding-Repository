@@ -15,7 +15,9 @@ int GCD(int x,int y)
 int main()
 {
 	int x,y;
-	scanf("%d %d",&x,&y);
+	x=32;
+	y=24;
+	//scanf("%d %d",&x,&y);
 	if(x>=y)
 		printf("%d\n",GCD(x,y));
 	else
