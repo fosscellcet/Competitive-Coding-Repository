@@ -15,7 +15,9 @@ int GCD(int x,int y)
 int main()
 {
 	int x,y;
-	scanf("%d %d",&x,&y);
+	x=56;
+	y=30;
+	//scanf("%d %d",&x,&y);
 	if(x>=y)
 		printf("%d\n",(x*y)/GCD(x,y));
 	else
