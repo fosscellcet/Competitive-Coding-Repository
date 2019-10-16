@@ -1,4 +1,4 @@
-# Competitive-Coding-Repository
+# Competitive Coding Repository
 A collection of solutions to Competitive Coding questions in all programming languages.
 
 # Check List 
