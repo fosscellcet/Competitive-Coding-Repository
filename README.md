@@ -4,9 +4,9 @@ A collection of solutions to Competitive Coding questions in all programming lan
 # Check List 
 
 ## Data Structures
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
-- [ ] Binary Search Tree
+- [x] Binary Search Tree
 - [ ] Trie
 
 ## Backtracking
