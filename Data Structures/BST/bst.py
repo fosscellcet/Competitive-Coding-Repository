@@ -7,12 +7,12 @@ class Node:
 	
 	def insert(self, value):
 		if self.val < value:
-			if self.rchild == None:
+			if self.rchild is None:
 				self.rchild = Node(value, None, None)
 				return
 			self.rchild.insert(value)
 		elif self.val > value:
-			if self.lchild == None:
+			if self.lchild is None:
 				self.lchild = Node(value, None, None)
 				return
 			self.lchild.insert(value)
@@ -23,11 +23,11 @@ class Node:
 		if self.val == key:
 			return True
 		elif self.val > key:
-			if self.lchild == None:
+			if self.lchild is None:
 				return False
 			return self.lchild.search(key)
 		elif self.val < key:
-			if self.rchild == None:
+			if self.rchild is None:
 				return False
 			return self.rchild.search(key)
 
