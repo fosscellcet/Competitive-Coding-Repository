@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/fosscellcet/Competitive-Coding-Repository.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/fosscellcet/Competitive-Coding-Repository/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/fosscellcet/Competitive-Coding-Repository.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/fosscellcet/Competitive-Coding-Repository/context:python)
+
 # Competitive-Coding-Repository
 A collection of solutions to Competitive Coding questions in all programming languages.
 
