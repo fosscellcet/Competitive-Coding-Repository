@@ -29,9 +29,10 @@ public:
 			cout << "Stack is Empty..!!" << endl;
 		}
 		else{
-			int temp = arr[--top];
-			cout << temp << " is Popped..!!" << endl;
+			top--;
 			size--;
+			int temp = arr[top];
+			cout << temp << " is Popped..!!" << endl;
 			return temp;
 		}
 	}
