@@ -3,30 +3,34 @@ using namespace std;
 
 class Stack{
 	int top;
+	int size;
 	int arr[100];
 
 public:
 	Stack(){
 		top = 0;
+		size = 0;
 	}
 
 	void push(int x){
-		if(top == 100){
+		if(size == 100){
 			cout << "Stack is Full..!!" << endl;
 		}
 		else{
 			arr[top] = x;
 			top++;
+			size++;
 			cout << x << " Pushed to Stack..!!" << endl;
 		}
 	}
 
 	int pop(){
-		if(top == 0){
+		if(size == 0){
 			cout << "Stack is Empty..!!" << endl;
 		}
 		else{
 			top--;
+			size--;
 			int temp = arr[top];
 			cout << temp << " is Popped..!!" << endl;
 			return temp;
