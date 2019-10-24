@@ -50,3 +50,8 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [x] Bipartite Graphs
 - [x] Permutation Swaps
 - [x] Connacted horses
+
+## Fenwick Trees
+- [x] Shil and Wave Sequence
+- [x] K Query
+- [x] Order Set Problem
