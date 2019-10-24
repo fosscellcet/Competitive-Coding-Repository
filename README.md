@@ -13,8 +13,8 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Trie
 
 ## Backtracking
-- [ ] N Queens 
-- [ ] Rat in a Maze
+- [x] N Queens 
+- [x] Rat in a Maze
 
 ## Bit Manupulation
 - [x] Check if i'th Bit is Set
@@ -27,6 +27,8 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Longest Common Subsequence.
 - [ ] Shortest Common Supersequence.
 - [ ] Longest Increasing Subsequence
+- [x] Knapsnack Problem
+
 
 ## Greedy
 - [ ] Huffman Coding
@@ -41,3 +43,9 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Merge Sort
 - [ ] Radix Sort
 - [ ] Counting Sort
+
+## Graph Theory
+- [x] Kruskals Algorithm
+- [ ] Prims Algorithm
+- [x] Bipartite Graphs
+- [x] Permutation Swaps
