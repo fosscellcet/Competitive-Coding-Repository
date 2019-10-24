@@ -13,7 +13,7 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Trie
 
 ## Backtracking
-- [ ] N Queens 
+- [x] N Queens 
 - [x] Rat in a Maze
 
 ## Bit Manupulation
@@ -43,3 +43,9 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Merge Sort
 - [ ] Radix Sort
 - [ ] Counting Sort
+
+## Graph Theory
+- [x] Kruskals Algorithm
+- [ ] Prims Algorithm
+- [x] Bipartite Graphs
+- [x] Permutation Swaps
