@@ -32,8 +32,9 @@ A collection of solutions to Competitive Coding questions in all programming lan
 
 ## Greedy
 - [ ] Huffman Coding
-
-## Number Theory
+- [x] Minimum Absolute Difference
+- [x] Fractional Knapsack
+- [x] Weighted job scheduling
 
 ## Searching
 - [x] Binary Search
@@ -55,3 +56,10 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [x] Shil and Wave Sequence
 - [x] K Query
 - [x] Order Set Problem
+
+## Number Theory
+- [x] Binomial Coefficient
+- [x] LCM
+- [x] Euclid GCD
+- [x] Prime from 1 to N
+- [x] GCD
