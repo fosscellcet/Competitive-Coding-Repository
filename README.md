@@ -49,3 +49,4 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Prims Algorithm
 - [x] Bipartite Graphs
 - [x] Permutation Swaps
+- [x] Connacted horses
