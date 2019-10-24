@@ -21,7 +21,7 @@ void bubbleSort(int arr[], int n)
 			swap(&arr[j], &arr[j+1]); 
 } 
 
-/* Function to print an array */
+/* Function to print one array */
 void printArray(int arr[], int size) 
 { 
 	int i; 
@@ -36,7 +36,7 @@ int main()
 	int arr[] = {64, 34, 25, 12, 22, 11, 90}; 
 	int n = sizeof(arr)/sizeof(arr[0]); 
 	bubbleSort(arr, n); 
-	cout<<"Sorted array: \n"; 
+	cout<<"Sorted ARRAY: \n"; 
 	printArray(arr, n); 
 	return 0; 
 } 
