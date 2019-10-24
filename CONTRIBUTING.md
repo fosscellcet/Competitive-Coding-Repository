@@ -9,6 +9,7 @@ New questions and topics are also welcome.
 ### Folder Structure Conventions
 
 Follow the directory structure of the project.
+for more shirts in hacktoberfest
 
     .  
     ├── ...   
