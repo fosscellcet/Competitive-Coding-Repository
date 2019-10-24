@@ -298,3 +298,4 @@ int main()
   
     return 0; 
 } 
+//Reference https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
