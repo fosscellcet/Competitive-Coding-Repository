@@ -1,3 +1,5 @@
 # Number Theory
 
-Repository of number Theory algorithms.
+Repository of the number Theory algorithms.
+
+
