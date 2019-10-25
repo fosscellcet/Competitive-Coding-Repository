@@ -1,3 +1,5 @@
+## Binary Search Tree
+
 A Binary Search Tree (BST) is a tree in which all the nodes follow the below-mentioned properties −
 
 The left sub-tree of a node has a key less than or equal to its parent node's key.
@@ -15,7 +17,8 @@ Following is a pictorial representation of BST −
 Binary Search Tree
 We observe that the root node key (27) has all less-valued keys on the left sub-tree and the higher valued keys on the right sub-tree.
 
-Basic Operations
+### Basic Operations
+
 Following are the basic operations of a tree −
 
 Search − Searches an element in a tree.
