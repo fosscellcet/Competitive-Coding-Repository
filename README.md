@@ -8,7 +8,7 @@ A collection of solutions to Competitive Coding questions in all programming lan
 
 ## Data Structures
 - [x] Stack
-- [ ] Queue
+- [x] Queue
 - [x] Binary Search Tree
 - [ ] Trie
 
