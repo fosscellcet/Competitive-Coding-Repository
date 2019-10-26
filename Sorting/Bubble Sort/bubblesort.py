@@ -12,3 +12,4 @@ def bubbleSort(arr):
             # than the next element
             if arr[j] > arr[j+1] :
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+#reference: https://www.geeksforgeeks.org/bubble-sort/
