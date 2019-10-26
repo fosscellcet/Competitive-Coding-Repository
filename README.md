@@ -50,7 +50,7 @@ A collection of solutions to Competitive Coding questions in all programming lan
 - [ ] Prims Algorithm
 - [x] Bipartite Graphs
 - [x] Permutation Swaps
-- [x] Connacted horses
+- [x] Connected horses
 
 ## Fenwick Trees
 - [x] Shil and Wave Sequence
