@@ -74,9 +74,17 @@ void printArray(int A[], int size)
 /* Driver program to test above functions */
 int main() 
 { 
-    int arr[] = {12, 11, 13, 5, 6, 7}; 
-    int arr_size = sizeof(arr)/sizeof(arr[0]); 
-  
+    int arr[10000]; 
+    int arr_size,i; 
+        
+    printf("Enter the Size of Array\n");
+    scanf("%d",&arr_size);
+    
+    printf("Enter the Array\n");
+    for(i = 0; i < arr_size; i++)
+       scanf("%d",&arr[i]);
+    
+    
     printf("Given array is \n"); 
     printArray(arr, arr_size); 
   
